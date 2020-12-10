@@ -29,6 +29,6 @@ Script: [response-timer.py](https://github.com/parity0x1/ctf/blob/main/response-
 ### Challenge 2
 A simple (but impossible for humans) game played via `nc` where commands were sent to move the player (^) left or right in an attempt to avoid colliding with approaching 0's. The longer you survived the faster the, we'll call them asteroids, approached. Despite banging away at automating with Python for about 2 hours, I just wasn't able to finish this challenge in time.
 
-Script: [auto-play.py] (https://github.com/parity0x1/ctf/blob/main/auto-play.py)  
+Script: [auto-play.py](https://github.com/parity0x1/ctf/blob/main/auto-play.py)  
 
 UPDATE: Seems like I was on the right track, which is quite encouraging. [See the solution here](https://gist.github.com/busterb/2fcd6f95acc89c0b85ef2d08b89930ae)
