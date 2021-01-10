@@ -2,7 +2,7 @@
 
 # WARNING: This is terrible code that certainly does not follow best practices.
 # It was written in a rush to capture the flag at the last minute. I've uploaded
-# it as is so you can learn from my mistages :)
+# it as is so you can learn from my mistakes :)
 
 from pwn import *
 import sys
